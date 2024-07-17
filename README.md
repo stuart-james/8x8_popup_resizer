@@ -3,7 +3,7 @@
 
 ## Description 
 
-This is a Chrome extension to resize the 8x8 popup window for the 8x8 Salesforce integration.
+This is a Chrome extension to resize the 8x8 popup window for the 8x8 Salesforce integration for CNYCN Salesforce users.
 
 
 ## Installation
