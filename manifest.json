@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "8x8 Popup Fixer",
+  "version": "1.0",
+  "permissions": ["scripting", "activeTab"],
+  "action": {
+    "default_title": "Click to view popup",
+    "default_popup": "popup/popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://nyneighborhoods.lightning.force.com/*"],
+      "js": ["scripts.js"]
+    }
+  ]
+}
