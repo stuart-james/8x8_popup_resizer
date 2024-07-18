@@ -17,8 +17,5 @@ window.addEventListener("load", () =>{
 
     setDefaultInputValues(widthEl, heightEl, resizeEl);
 
-    saveEl.addEventListener("click", () => () => {
-
-    })
 })
 
